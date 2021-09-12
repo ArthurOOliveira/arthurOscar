@@ -1,6 +1,6 @@
 # Olá, eu sou Arthur Oscar
 
-🖥️ Uma pessoa curiosa é ambiciosa, aprendo qualquer coisa sozinho! 
+🖥️ Uma pessoa curiosa e ambiciosa, aprendo qualquer coisa sozinho! 
 📚 Estudante de Sistemas de Informação
 ⚽ Viciado em futebol 
 🔥 Viciado em aprender
