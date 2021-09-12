@@ -3,7 +3,7 @@
 🖥️ Uma pessoa curiosa e ambiciosa, aprendo qualquer coisa sozinho! 
 📚 Estudante de Sistemas de Informação
 ⚽ Viciado em futebol 
-🔥 Viciado em aprender
+🔥 Viciado em viver
 
 <div>
   <a href="https://github.com/ArthurOOliveira">
